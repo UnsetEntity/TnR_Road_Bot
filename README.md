@@ -2,7 +2,9 @@
 
 **A Windows application that plans safe road routes and automates road building in Rise of Castles.** RoadBot controls the game through MuMu Player, calculates a route between the start and target coordinates you choose, and executes it after your confirmation.
 
-[Download the latest EXE](https://github.com/UnsetEntity/TnR_Road_Bot/releases)  [YOUTUBE Videos](https://www.youtube.com/@UnsetEntity) 
+[Download the latest EXE](https://github.com/UnsetEntity/TnR_Road_Bot/releases) 
+
+[YOUTUBE Videos](https://www.youtube.com/@UnsetEntity) 
 
 ## Required MuMu Display Settings
 
@@ -59,6 +61,7 @@ You do not need to install Python or Python packages. If the installer cannot fi
 6. Choose a map and enter the start/target coordinates, terrain level limit, and legion details.
 7. First review the route with **Show Route Only**. To build a road, select **Plan Route and Build Road** and inspect the calculated route.
 8. Use **Emergency Stop** if needed while the bot is running.
+9. [YOUTUBE Videos](https://www.youtube.com/@UnsetEntity) 
 
 ## Map Data and Connectivity
 
