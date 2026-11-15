@@ -32,7 +32,8 @@ If these settings are incorrect, screen tap coordinates and OCR readings may not
 <table>
 	<tr>
 		<td align="center"><a href="Main.png"><img src="Main.png" alt="RoadBot main screen" width="220"></a><br><sub>Main screen</sub></td>
-		<td align="center"><a href="Route-preview.png"><img src="Route-preview.png" alt="Route preview on the radar map" width="220"></a><br><sub>Route preview</sub></td>
+		<td align="center"><a href="Route-preview.png"><img src="Route-preview.png" alt="Route preview on the radar map" width="220"></a><br><sub>Route preview</sub></td></tr>
+	<tr>
 		<td align="center"><a href="Calculated-route.png"><img src="Calculated-route.png" alt="Calculated route with legion energy" width="220"></a><br><sub>Calculated route and legion energy</sub></td>
 		<td align="center"><a href="Multiple-bot.png"><img src="Multiple-bot.png" alt="Multiple bot tabs and operation queue" width="220"></a><br><sub>Multiple bots and operation queue</sub></td>
 	</tr>
