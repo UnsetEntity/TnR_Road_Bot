@@ -2,7 +2,7 @@
 
 **A Windows application that plans safe road routes and automates road building in Rise of Castles.** RoadBot controls the game through MuMu Player, calculates a route between the start and target coordinates you choose, and executes it after your confirmation.
 
-[Download the latest EXE](https://github.com/UnsetEntity/TnR_Road_Bot/releases)
+[Download the latest EXE](https://github.com/UnsetEntity/TnR_Road_Bot/releases)  [YOUTUBE Videos](https://www.youtube.com/@UnsetEntity) 
 
 ## Required MuMu Display Settings
 
