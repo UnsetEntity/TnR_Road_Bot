@@ -50,7 +50,7 @@ You do not need to install Python or Python packages. If the installer cannot fi
 
 ## Installation and Use
 
-1. Download the installer EXE from the [latest releases page](https://github.com/UnsetEntity/roadbot-releases/releases).
+1. Download the installer EXE from the [latest releases page](https://github.com/UnsetEntity/TnR_Road_Bot/releases).
 2. Run the installer and follow the prompts.
 3. In MuMu Player, set the emulator display to `1280 × 2560`, `480 DPI`, and portrait orientation. Restart the emulator, then sign in to Rise of Castles.
 4. In the game, disable the legion march animation and select **Lite Mode** in the game settings.
